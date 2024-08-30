@@ -122,6 +122,7 @@
     <Compile Include="05_BizDomain\Common\Error\Error.cs" />
     <Compile Include="05_BizDomain\Service\SaleService.cs" />
     <Compile Include="05_BizDomain\Service\ItemService.cs" />
+    <Compile Include="Config\config.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
