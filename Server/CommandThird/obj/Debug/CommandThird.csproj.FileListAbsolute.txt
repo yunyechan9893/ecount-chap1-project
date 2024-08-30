@@ -1,0 +1,44 @@
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\obj\Debug\CommandThird.csproj.AssemblyReference.cache
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\obj\Debug\CommandThird.csproj.CoreCompileInputs.cache
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\CommandThird.exe.config
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\CommandThird.exe
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\CommandThird.pdb
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\Npgsql.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Buffers.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Collections.Immutable.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Memory.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Text.Json.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Threading.Channels.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.ValueTuple.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\Npgsql.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Buffers.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Collections.Immutable.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Memory.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Text.Json.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Threading.Channels.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\bin\Debug\System.ValueTuple.xml
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\obj\Debug\CommandThird.csproj.CopyComplete
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\obj\Debug\CommandThird.exe
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\obj\Debug\CommandThird.pdb
+C:\Users\devedu16\Desktop\1차 프로젝트\Backend\obj\Debug\CommandThird.csproj.AssemblyReference.cache
+C:\Users\devedu16\Desktop\1차 프로젝트\Backend\obj\Debug\CommandThird.csproj.CoreCompileInputs.cache
+C:\Users\devedu16\Desktop\1차 프로젝트\Backend\obj\Debug\CommandThird.exe
+C:\Users\devedu16\Desktop\1차 프로젝트\Backend\obj\Debug\CommandThird.pdb

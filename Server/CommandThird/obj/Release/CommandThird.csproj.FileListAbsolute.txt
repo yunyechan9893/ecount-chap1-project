@@ -1,0 +1,2 @@
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\obj\Release\CommandThird.csproj.AssemblyReference.cache
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\Study\CommandThird\obj\Release\CommandThird.csproj.CoreCompileInputs.cache

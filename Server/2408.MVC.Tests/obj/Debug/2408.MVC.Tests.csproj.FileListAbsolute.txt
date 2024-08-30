@@ -1,0 +1,2 @@
+C:\Users\devedu16\Desktop\ecount-education\3_C#\2408.MVC\2408.MVC.Tests\obj\Debug\2408.MVC.Tests.csproj.AssemblyReference.cache
+C:\Users\devedu16\Desktop\ecount-education\3_C#\2408.MVC\2408.MVC.Tests\obj\Debug\2408.MVC.Tests.csproj.CoreCompileInputs.cache

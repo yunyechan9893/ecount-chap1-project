@@ -1,0 +1,64 @@
+@{
+    ViewBag.Title = "Item";
+}
+
+<link rel="stylesheet" href="~/Content/main.css">
+<main>
+    <header>
+        <div class="rectangle page-title">
+            <b>■ 품목 조회</b>
+        </div>
+
+        <table style="width: 100%; border-collapse: collapse; margin-top: 5px;">
+            <tr class="color-main rectangle">
+                <td style="width: 100px;">
+                    <span>품목코드</span>
+                </td>
+                <td>
+                    <input class="margin-full" id="data-code" type="text" placeholder="품목코드">
+                </td>
+            </tr>
+            <tr class="color-main rectangle">
+                <td>
+                    <span>품목명</span>
+                </td>
+                <td>
+                    <input class="margin-full" id="data-name" type="text" placeholder="품목명">
+                </td>
+            </tr>
+            <tr class="rectangle">
+                <td colspan='2'>
+                    <button class="button-color-blue button-style2 margin-type1 display-inline" id='search'>검색</button>
+                    <button class="button-style2 margin-type1 display-inline" id='clear-search-item'>초기화</button>
+                </td>
+            </tr>
+        </table>
+    </header>
+    <main style="margin-top: 20px;">
+        <div>
+            <button id="prev">< 이전</button>
+            <button id="next">다음 ></button>
+        </div>
+        <table style="border-color: black; width: 100%; height: auto; margin-top: 5px;">
+            <thead>
+                <tr class="color-main">
+                    <th class="column-title" scope="col" style="width: 5px;"><input id="selector-parent" type="checkbox"></th>
+                    <th class="column-title" scope="col" style="width: 150px;">품목코드</th>
+                    <th class="column-title" scope="col" style="width: auto;">품목명</th>
+                    <th class="column-title" scope="col" style="width: 80px; text-align: center;">수정</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+            </tbody>
+        </table>
+
+        <div style="margin-top: 5px;">
+            <button class="button-color-blue button-style1" id="apply">적용</button>
+            <button class="button-style1" id="new">신규</button>
+            <button class="button-style1" id="delete">선택삭제</button>
+            <button class="button-style1" id="close">닫기</button>
+        </div>
+    </main>
+    <script type="module" src="~/Scripts/ItemInquiry/ItemInquiryView.js"></script>
+    @*<script type="module" src="../js/common/security.js"></script>*@
+</main>

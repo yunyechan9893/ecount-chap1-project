@@ -1,0 +1,39 @@
+@{
+    ViewBag.Title = "Item";
+}
+
+<link rel="stylesheet" href="~/Content/main.css">
+<main>
+    <header>
+        <div class="rectangle page-title">
+            <b>♂ 前格 殿废</b>
+        </div>
+
+        <table style="width: 100%; border-collapse: collapse; margin-top: 5px;">
+            <tr class="rectangle" style="background-color: rgb(214, 214, 214);">
+                <td style="width: 100px;">
+                    <span>前格内靛</span>
+                </td>
+                <td>
+                    <input class="margin-full" id="item-code" type="text" placeholder="前格内靛">
+                </td>
+            </tr>
+            <tr class="rectangle" style="background-color: rgb(214, 214, 214);">
+                <td>
+                    <span>前格疙</span>
+                </td>
+                <td>
+                    <input class="margin-full" id="item-name" type="text" placeholder="前格疙" value="">
+                </td>
+            </tr>
+        </table>
+        <div style="margin-top: 5px;">
+            <button class="button-color-blue button-style1" id="save">历厘</button>
+            <button class="button-style1" id="delete" hidden="true">昏力</button>
+            <button class="button-style1" id="rewrite">促矫累己</button>
+            <button class="button-style1" id="close">摧扁</button>
+        </div>
+    </header>
+    <script type="module" src="~/Scripts/ItemInput/itemInputView.js"></script>
+    @*<script type="module" src="../js/common/security.js"></script>*@
+</main>
